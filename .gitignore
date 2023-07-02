@@ -1,1 +1,3 @@
 *.zip
+/depth-model
+/test-set
